@@ -1,0 +1,3 @@
+C:/code/efhub26/modules/expo-zstd/android/.cxx/RelWithDebInfo/12241z56/armeabi-v7a/CMakeFiles/expozstd.dir
+C:/code/efhub26/modules/expo-zstd/android/.cxx/RelWithDebInfo/12241z56/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/code/efhub26/modules/expo-zstd/android/.cxx/RelWithDebInfo/12241z56/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/code/efhub26/modules/expo-zstd/android/.cxx/Debug/45u543b4/x86_64/CMakeFiles/expozstd.dir
+C:/code/efhub26/modules/expo-zstd/android/.cxx/Debug/45u543b4/x86_64/CMakeFiles/edit_cache.dir
+C:/code/efhub26/modules/expo-zstd/android/.cxx/Debug/45u543b4/x86_64/CMakeFiles/rebuild_cache.dir

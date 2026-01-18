@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android", "web"],
+  "apple": {
+    "modules": ["ExpoZstdModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.zstd.ExpoZstdModule"]
+  }
+}
