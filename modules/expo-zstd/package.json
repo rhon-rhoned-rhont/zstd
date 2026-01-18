@@ -1,7 +1,7 @@
 {
   "name": "expo-zstd",
   "version": "0.1.0",
-  "description": "std",
+  "description": "zstd",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "scripts": {
@@ -25,7 +25,7 @@
   "bugs": {
     "url": "https://github.com/rhon-rhoned-rhont/zstd/issues"
   },
-  "author": "novasoftwarestudio <deflatedpappadam@gmail.com> (rhogneld)",
+  "author": "novasoftwarestudio <rhonsgeorge.2002@gmail.com> (rhogneld)",
   "license": "MIT",
   "homepage": "https://github.com/rhon-rhoned-rhont/zstd#readme",
   "dependencies": {},
